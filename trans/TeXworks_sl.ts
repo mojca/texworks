@@ -218,13 +218,13 @@
     <message>
         <location filename="../src/PDFDocument.cpp" line="838"/>
         <source>Open URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Odpri URL</translation>
     </message>
     <message>
         <location filename="../src/PDFDocument.cpp" line="838"/>
         <source>You are in the process of opening the URL %1. Opening unknown or untrusted web adresses can be a security risk.
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Odpirate URL %1. Odpiranje neznanega spletnega mesta oz. mesta, nevrednega zaupanja, lahko pomeni varnostno tveganje Želite nadaljevati?</translation>
     </message>
     <message>
         <location filename="../src/PDFDocument.cpp" line="864"/>
@@ -246,7 +246,7 @@ Do you want to continue?</source>
     <message>
         <location filename="../src/PDFDocument.cpp" line="890"/>
         <source>Custom...</source>
-        <translation type="unfinished"></translation>
+        <translation>Po meri ...</translation>
     </message>
     <message>
         <location filename="../src/PDFDocument.cpp" line="950"/>
@@ -263,12 +263,12 @@ Do you want to continue?</source>
     <message>
         <location filename="../src/PDFDocument.cpp" line="967"/>
         <source>Set Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavi povečavo</translation>
     </message>
     <message>
         <location filename="../src/PDFDocument.cpp" line="967"/>
         <source>Zoom level:</source>
-        <translation type="unfinished"></translation>
+        <translation>Povečava:</translation>
     </message>
     <message>
         <location filename="../src/PDFDocument.ui" line="17"/>
@@ -1343,26 +1343,26 @@ Use the context menu to change the units.</source>
     <message>
         <location filename="../src/ScreenCalibrationWidget.cpp" line="58"/>
         <source>DIN A4</source>
-        <translation type="unfinished"></translation>
+        <translation>DIN A4</translation>
     </message>
     <message>
         <location filename="../src/ScreenCalibrationWidget.cpp" line="59"/>
         <source>Letter</source>
-        <translation type="unfinished"></translation>
+        <translation>Letter</translation>
     </message>
     <message>
         <location filename="../src/ScreenCalibrationWidget.cpp" line="63"/>
         <location filename="../src/ScreenCalibrationWidget.cpp" line="69"/>
         <source>cm</source>
         <extracomment>this refers to the length unit of centimeters</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>cm</translation>
     </message>
     <message>
         <location filename="../src/ScreenCalibrationWidget.cpp" line="65"/>
         <location filename="../src/ScreenCalibrationWidget.cpp" line="75"/>
         <source>in</source>
         <extracomment>this refers to the length unit of inches</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">in</translation>
     </message>
 </context>
 <context>
